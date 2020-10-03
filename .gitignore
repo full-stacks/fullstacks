@@ -43,5 +43,9 @@ report.*.json
 # Yarn Integrity file
 .yarn-integrity
 
+# gatsby files
+.cache/
+/packages/web/public
+
 # skill
 /.skill
