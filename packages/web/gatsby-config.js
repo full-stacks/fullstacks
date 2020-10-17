@@ -12,5 +12,5 @@ module.exports = {
     headline: website.headline,
     twitter: website.twitter,
   },
-  plugins: ['gatsby-plugin-react-helmet'],
+  plugins: ['gatsby-plugin-postcss', 'gatsby-plugin-react-helmet'],
 };
